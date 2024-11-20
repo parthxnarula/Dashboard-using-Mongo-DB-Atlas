@@ -13,15 +13,18 @@
 1. Language Distribution:
 
 Most Common Language: Yiddish movies make up 29% of the data.
+
 Other Languages: Vietnamese and Zulu are also significant contributors, with 24.9% and 14.2%, respectively.
 
 2. Genre Popularity:
 Top Genres: Drama dominates, followed by Romance and Comedy.
+
 Niche Genres: Genres like Musical, Film-Noir, and Talk Show have lower representation.
 
-3. Top Contributors:
+4. Top Contributors:
 
 Actors: The top actors as per IMDB ratings include names like Øyvind Holm and Eylem Tekin.
+
 Directors: The most influential directors are highlighted, such as Ézger Yildirim.
 
 4. Highly Rated Movies:
@@ -31,6 +34,7 @@ Movies like The Godfather and Human Planet are among the top-rated.
 5. Ratings vs. Runtime:
 
 Metacritic Ratings: Movies with a runtime between 90–150 minutes tend to have higher Metacritic scores.
+
 IMDB Ratings: Movies with extremely long runtimes (over 400 minutes) seem to skew towards lower ratings, suggesting diminishing returns for excessively long films.
 
 6. Regional Analysis:
