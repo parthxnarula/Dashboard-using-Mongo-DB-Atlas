@@ -1,6 +1,6 @@
 # Dashboard-using-Mongo-DB-Atlas
 
-# Objectives and Insights
+# *Objectives and Insights*
 # *Objectives:*
 1. Analyze Movie Data: Understand key statistics about movies such as their genres, languages, runtime, and ratings.
 2. Visualize Trends: Present trends in ratings (IMDB and Metacritic) and their relationships with runtime.
