@@ -58,7 +58,7 @@ Top Genres: Drama dominates, followed by Romance and Comedy.
 
 Niche Genres: Genres like Musical, Film-Noir, and Talk Show have lower representation.
 
-4. Top Contributors:
+3. Top Contributors:
 
 Actors: The top actors as per IMDB ratings include names like Øyvind Holm and Eylem Tekin.
 
