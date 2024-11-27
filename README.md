@@ -1,6 +1,6 @@
 # Dashboard-using-Mongo-DB-Atlas
-Based on your MongoDB Atlas project and the dashboard visualizations we've discussed, it seems your **Movies Dataset** includes comprehensive information about various movies, including details such as:
 
+(https://github.com/user-attachments/assets/5106c8d4-dade-49d3-9533-e4431112a272)
 # About the Dataset
 1. **Title**: The name of the movie.
 2. **Year**: The release year of the movie.
