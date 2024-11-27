@@ -1,6 +1,7 @@
 # Dashboard-using-Mongo-DB-Atlas
 
-(https://github.com/user-attachments/assets/5106c8d4-dade-49d3-9533-e4431112a272)
+![Uploading Movies Dashboard SDA - Copy.png…]()
+
 # About the Dataset
 1. **Title**: The name of the movie.
 2. **Year**: The release year of the movie.
